@@ -4,7 +4,7 @@ This sample is an azure function that gets the embed token and report details to
 
 # Prerequisite
 
-This function can run by itself, but is currently accompanied with another repo called "power-bi-app" to support fetching the token and the report details for the angular application.
+This function can run by itself, but is currently accompanied with another repo called [powerbi-app](https://github.com/sdesa/powerbi-app) to support fetching the token and the report details for the angular application.
 
 # Blog 
 
