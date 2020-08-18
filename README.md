@@ -8,7 +8,9 @@ This function can run by itself, but is currently accompanied with another repo 
 
 # Blog 
 
-This source code is also accompanied by a blog that you can access here which has additional setup instructions to run this function with the angular application.
+This source code is also accompanied by a blog that you can access here which has additional setup instructions to run this function with the angular application. 
+
+https://medium.com/@sivadevd01/power-bi-embedding-using-angular-and-azure-functions-in-java-4b20de3cca80
 
 # How to run this sample
 
